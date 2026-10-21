@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#183c34">
+  <title>CareerOS · Workspace</title>
+  <link rel="stylesheet" href="/style.css">
+  <script src="/app.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to workspace</a>
+  <aside class="sidebar">
+    <a class="brand" href="#today"><span class="brand-mark">C</span><span>Career<span class="brand-light">OS</span><small>YOUR NEXT CHAPTER</small></span></a>
+    <div class="workspace-label">WORKSPACE</div>
+    <nav aria-label="Workspace">
+      <button data-page="today" class="nav active"><span class="nav-icon">◷</span>Today<span class="nav-count" id="due-count"></span></button>
+      <button data-page="applications" class="nav"><span class="nav-icon">▤</span>Applications<span class="nav-count" id="apps-count">0</span></button>
+      <button data-page="network" class="nav"><span class="nav-icon">♧</span>Network<span class="nav-count" id="network-count">0</span></button>
+      <button data-page="targets" class="nav"><span class="nav-icon">◎</span>Targets<span class="nav-count" id="targets-count">8</span></button>
+      <button data-page="evidence" class="nav"><span class="nav-icon">▧</span>Evidence & drafts</button>
+    </nav>
+    <div class="side-note"><span class="live-dot"></span>Private local workspace<p>Built around your evidence.<br>One role. One record. One next step.</p></div>
+    <div class="profile"><div class="avatar">CO</div><div><strong>CareerOS workspace</strong><small>Configure your goal</small></div></div>
+  </aside>
+  <div class="workspace">
+    <header class="topbar"><span id="breadcrumb">Workspace / Today</span><div><span class="local-pill"><span class="live-dot"></span>Saved on this Mac</span><button class="button subtle" id="refresh">↻ Refresh</button></div></header>
+    <main id="main" tabindex="-1"><div class="loading">Opening your workspace…</div></main>
+    <footer>Your evidence is the starting point. Every draft is yours to review.</footer>
+  </div>
+  <div id="toast" role="status" aria-live="polite"></div>
+  <dialog id="dialog"><div class="dialog-head"><div><p class="eyebrow" id="dialog-eyebrow">CAREEROS</p><h2 id="dialog-title"></h2></div><button class="icon-button" id="close-dialog" aria-label="Close dialog">×</button></div><div id="dialog-body"></div></dialog>
+</body>
+</html>

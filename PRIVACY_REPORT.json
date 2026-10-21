@@ -1,0 +1,26 @@
+{
+  "status": "passed",
+  "checked_at_utc": "2026-10-21T21:11:53.588170+00:00",
+  "files_scanned": 36,
+  "checks": [
+    "private identifiers",
+    "non-example email addresses",
+    "absolute home paths",
+    "common credential patterns",
+    "text-only allowlisted files"
+  ],
+  "excluded": [
+    "candidate evidence",
+    "live records",
+    "contacts",
+    "job descriptions",
+    "research",
+    "CVs",
+    "exports",
+    "source archives",
+    "integrations",
+    "credentials",
+    "runtimes"
+  ],
+  "limitations": "Pattern scanning and an allowlist require human review; they do not prove every future change safe."
+}

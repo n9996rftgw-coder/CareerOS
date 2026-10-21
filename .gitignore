@@ -1,0 +1,23 @@
+# Private runtime records stay outside the code repository.
+/data/
+/sot/
+/reference/
+/research/
+/jobs/
+/outputs/
+/exports/
+/.runtime/
+/.venv/
+/.runtime.json
+/integrations.json
+/node_modules/
+/CareerOS_Package/
+*.zip
+__pycache__/
+*.pyc
+.DS_Store
+.env*
+*.log
+*.pdf
+*.docx
+*.xlsx

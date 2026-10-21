@@ -1,0 +1,195 @@
+{
+  "format": 1,
+  "created_at_utc": "2026-10-21T21:11:53.588170+00:00",
+  "scope": "code and fictional examples only",
+  "files": [
+    {
+      "path": ".github/workflows/tests.yml",
+      "bytes": 629,
+      "sha256": "b07705c19f79daab20fbd679d3563584dea6ca615b0f447403139353189f475e"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 277,
+      "sha256": "b0fec361353088bc7e01a97e691996b6cab4df392d436039345c995838d4329e"
+    },
+    {
+      "path": "PRIVACY_REPORT.json",
+      "bytes": 626,
+      "sha256": "1a3489b7c5161175a1f474dd2d329ca70eba71f386b30a68baf59ab58459fb59"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4558,
+      "sha256": "c4191d0e9f63662a70087ce3ad3faf8928e1cb688e2effbe852e256869fcb19a"
+    },
+    {
+      "path": "build_sheet.py",
+      "bytes": 1818,
+      "sha256": "70c68c341d22f0edb0e10e71daca76b91dd868f9d7f177428233fd9ce9197b85"
+    },
+    {
+      "path": "careeros/__init__.py",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "careeros/builder.py",
+      "bytes": 4454,
+      "sha256": "53af3dec059a28cd53087d3b786579ab4263fd53f174acf901e4064d2cb82bb0"
+    },
+    {
+      "path": "careeros/jd.py",
+      "bytes": 3850,
+      "sha256": "75e8ef781ba3612df2a890bb79f2fa64cb4f79b7ae4b58b24d648580115d1d25"
+    },
+    {
+      "path": "careeros/render_docx.js",
+      "bytes": 4184,
+      "sha256": "17dbfd9aeda0e17ea0c58ebc2a7dcd8cd7970708bcf71c51add540f8ef53b456"
+    },
+    {
+      "path": "careeros/research.py",
+      "bytes": 2892,
+      "sha256": "539eee4c0d3cead588943428c036dd25d4faa08b65d8cbd20ff99755a8553a7f"
+    },
+    {
+      "path": "careeros/reviewer.py",
+      "bytes": 13487,
+      "sha256": "189ba7bdca220df9d78da81b767e9f455c91542d4ce978434aa7e0256d7d099c"
+    },
+    {
+      "path": "careeros/sot.py",
+      "bytes": 5830,
+      "sha256": "880ca70d9e96b0920d38206515a5efd4529674999f3c3140ce8275713d8606d3"
+    },
+    {
+      "path": "careeros/tracker.py",
+      "bytes": 21688,
+      "sha256": "03ef2e9544e4c97c1d4793b796ef6c988d7964a76309dbbeb0b91a9450163416"
+    },
+    {
+      "path": "cli.py",
+      "bytes": 25162,
+      "sha256": "e0fbb06947e499c9f65447f53071ee80ac9aab18520d32b224c963debf35304b"
+    },
+    {
+      "path": "docs/GITHUB.md",
+      "bytes": 2138,
+      "sha256": "3b363086c56911908c4143cfb70563c5900c0b675cdae66334eb01105a84ca8d"
+    },
+    {
+      "path": "examples/data/applications.csv",
+      "bytes": 243,
+      "sha256": "2e8a37e1786180ababb7960c3ab27f4f20880fdb21d2cf9bc5333f08c39a1a4e"
+    },
+    {
+      "path": "examples/data/network.csv",
+      "bytes": 185,
+      "sha256": "a58da9579ad274c0fe94497af997abeca97381970369c0a87978a61041994598"
+    },
+    {
+      "path": "examples/data/targets.csv",
+      "bytes": 131,
+      "sha256": "a9463df5565755ff9cae6efd835fd020408bb3713d584f52ccb72a81fe7662b9"
+    },
+    {
+      "path": "examples/runtime.example.json",
+      "bytes": 52,
+      "sha256": "782600a97a7c9bb547bb63fd9a57ca03970ae68bebcbb765370c4a7a5cef4259"
+    },
+    {
+      "path": "examples/seed_demo.py",
+      "bytes": 1316,
+      "sha256": "39d0a01b139a35036086d42c97a6c765636d8e79d6213c3a5844b19eb3f15f92"
+    },
+    {
+      "path": "examples/sot/knowledge.yaml",
+      "bytes": 99,
+      "sha256": "16072cef8bd05a59f7653ccd405078811ff233a934608306606b44d08ed2e6c5"
+    },
+    {
+      "path": "examples/sot/master.yaml",
+      "bytes": 758,
+      "sha256": "cdf2f8ea24d1a38297e8225e91f9a133e73bd9719c1ad7dcf8f20e5eecad2043"
+    },
+    {
+      "path": "examples/sot/operating_rules.md",
+      "bytes": 782,
+      "sha256": "9bec60672ee8ee6d903a682c66d48f28239a44d324a4f9bf8641ee77d28c990f"
+    },
+    {
+      "path": "examples/sot/personal_context.yaml",
+      "bytes": 300,
+      "sha256": "acb5e4afc7b6ec23609b5babb50337672e50b73fc4c7178c7def938d825ab939"
+    },
+    {
+      "path": "package.json",
+      "bytes": 206,
+      "sha256": "29c4b329fb2868c2364055a02bf1e5fe9a223c8bce25a84585ac49c781143450"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 14,
+      "sha256": "0969da99a0bc2a1b71ed50584560f4588a37567ac63af3ddbaf3c4617ca5621a"
+    },
+    {
+      "path": "server.py",
+      "bytes": 18132,
+      "sha256": "cea68fd479e3c2f717ee51676c2913daaffa97dba986ac526b8160c9ed8916f0"
+    },
+    {
+      "path": "tests/test_evidence.py",
+      "bytes": 9875,
+      "sha256": "5ff7d1f87bc2de928227b4b3bf0a438e1b29a6876771ff9b772fa525e1d1e0be"
+    },
+    {
+      "path": "tests/test_server.py",
+      "bytes": 7393,
+      "sha256": "695a34018742df7f1ff4b480fa8e371ebec432c1d6d9a7b5286cce8d59bf5c24"
+    },
+    {
+      "path": "tests/test_tracker.py",
+      "bytes": 5591,
+      "sha256": "96084f89b872655e3c0f7f72d8d2556f80754068664ba3f0e889e884133904c8"
+    },
+    {
+      "path": "tests/test_workbook.py",
+      "bytes": 737,
+      "sha256": "547d4d520f2bc55d53b25737f99c988f47065a678b5a70dac966ac00caf6883d"
+    },
+    {
+      "path": "tools/WORKBOOK.md",
+      "bytes": 1954,
+      "sha256": "29d7a482ae20e50c0fcb5f619494554675f8f3eb133c586c7ecb08670ef8412b"
+    },
+    {
+      "path": "tools/build_tracker.mjs",
+      "bytes": 26538,
+      "sha256": "e1e038549dbcf0a24d396e809efe02b0e500cf88dee58d2ce779bd6442edf889"
+    },
+    {
+      "path": "tools/prepare_repository.py",
+      "bytes": 9491,
+      "sha256": "f307adb3f4c0702bbf2be7bd5e10a2e5de5adc6fa3a5da42fe1b6d529db68d7f"
+    },
+    {
+      "path": "web/app.js",
+      "bytes": 28631,
+      "sha256": "9822cc5b9dd8b8409e0d14902b6cdfd6570cf4ddefe142997321f74535612dc4"
+    },
+    {
+      "path": "web/index.html",
+      "bytes": 2458,
+      "sha256": "d74bec6097866bd80e4fa5abafa97f95792b68b87ba17216fb398c4ec0010117"
+    },
+    {
+      "path": "web/style.css",
+      "bytes": 15733,
+      "sha256": "f1c2ff720915d406297f59e6fbe9606c3d111357a63e46b96824cb6941194d21"
+    }
+  ],
+  "unhashed_metadata": [
+    "PUBLICATION_MANIFEST.json"
+  ]
+}

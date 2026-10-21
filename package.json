@@ -1,0 +1,7 @@
+{
+  "name": "careeros-local",
+  "version": "2.1.0",
+  "private": true,
+  "description": "Evidence-first local job search workspace with chat-led connector workflows",
+  "dependencies": {"docx": "^9.5.1"}
+}

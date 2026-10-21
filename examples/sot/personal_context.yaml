@@ -1,0 +1,10 @@
+positioning: Configure your positioning from evidence.
+target: Configure your role, level, location and sector goal.
+summaries:
+- id: sample
+  status: draft
+  text: This fictional summary requires replacement and human evidence review.
+  keywords:
+  - content planning
+  evidence:
+  - sample-role-01

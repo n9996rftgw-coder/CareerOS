@@ -1,0 +1,32 @@
+# Fictional demonstration data. Replace locally before preparing real documents.
+profile:
+  name: Demo Candidate
+  city: London
+  phone: ''
+  email: candidate@example.invalid
+  linkedin: ''
+  portfolio: ''
+roles:
+- id: sample-role
+  employer: Sample Organisation
+  title: Marketing Executive
+  location: London
+  start: Jan 2024
+  end: Dec 2024
+  bullets:
+  - id: sample-role-01
+    status: draft
+    text: Created a fictional content plan for this demonstration workspace.
+    tags:
+    - content planning
+education:
+- institution: Sample University
+  award: Sample qualification
+  start: Sep 2022
+  end: Sep 2023
+certifications: []
+awards: []
+skills:
+- Content Planning
+evidence_bank:
+  note: Fictional demonstration only. No candidate facts are supplied.
